@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Material-UI/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/React-Material-UI/static/js/main.9aef4ecf.chunk.js",
+    "main.js.map": "/React-Material-UI/static/js/main.9aef4ecf.chunk.js.map",
+    "runtime-main.js": "/React-Material-UI/static/js/runtime-main.ecb5d878.js",
+    "runtime-main.js.map": "/React-Material-UI/static/js/runtime-main.ecb5d878.js.map",
+    "static/js/2.1d9c8485.chunk.js": "/React-Material-UI/static/js/2.1d9c8485.chunk.js",
+    "static/js/2.1d9c8485.chunk.js.map": "/React-Material-UI/static/js/2.1d9c8485.chunk.js.map",
+    "index.html": "/React-Material-UI/index.html",
+    "precache-manifest.c1de969724dd86e94566a7727e4dbf28.js": "/React-Material-UI/precache-manifest.c1de969724dd86e94566a7727e4dbf28.js",
+    "service-worker.js": "/React-Material-UI/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/React-Material-UI/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.1d9c8485.chunk.js.LICENSE.txt": "/React-Material-UI/static/js/2.1d9c8485.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecb5d878.js",
+    "static/js/2.1d9c8485.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.9aef4ecf.chunk.js"
+  ]
+}
